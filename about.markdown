@@ -8,4 +8,4 @@ Este blog está dedicado al teatro. Publicaré (con el tiempo que tenga disponib
 
 Si deseas tomar alguna de las obras de esta página para ensayos u otro fin, por favor, avísame.
 
-Esta página ha sido hecha desde cero con [jekyll](https://github.com/jekyll/jekyll).
+Esta página ha sido creada desde cero con [jekyll](https://github.com/jekyll/jekyll).
