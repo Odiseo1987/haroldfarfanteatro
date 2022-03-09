@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Este blog está dedicado al teatro. Publicaré (con el tiempo que tenga disponible) las obras que vaya escribiendo. También escribiré  reseñas de obras teatrales, libros y técnicas teatrales que aún sigo aprendiendo.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Si deseas tomar alguna de las obras de esta página para ensayos u otro fin, por favor, avísame.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Esta página ha sido hecha desde cero con [jekyll](https://github.com/jekyll/jekyll).
