@@ -5,7 +5,7 @@ date:   2019-12-26 12:52:22 -0500
 categories: jekyll update
 author: "Harold Farfán Reto"
 ---
-Hace un par de meses, investigando sobre Henrik Ibsen, me topé con [este artículo][articulo-Ibsen1], en el que se anunciaba la publicación del primer producto de ocho años de trabajo del proyecto Ibsen in Translation, impulsado por el Ministerio de Exteriores de Noruega, el instituto [Norwegian Literature Abroad][norla] (NORLA), y el [Centro de Estudios Ibsenianos de la Universidad de Oslo][centro-ibseniano] (donde, como dato curioso, se ofrece [una maestría en Ibsen de dos años de duración][maestria-Ibsen]). El objetivo es traducir directamente del noruego 12 obras del dramaturgo a ocho idiomas (árabe, egipcio, hindi, español, persa, chino, japonés y ruso).
+Hace un par de meses, investigando sobre Henrik Ibsen, me topé con [este artículo][articulo-Ibsen1], en el que se anunciaba la publicación del primer producto de ocho años de trabajo del proyecto *Ibsen in Translation*, impulsado por el Ministerio de Exteriores de Noruega, el instituto [Norwegian Literature Abroad][norla] (NORLA), y el [Centro de Estudios Ibsenianos de la Universidad de Oslo][centro-ibseniano] (donde, como dato curioso, se ofrece [una maestría en Ibsen de dos años de duración][maestria-Ibsen]). El objetivo es traducir directamente del noruego 12 obras del dramaturgo a ocho idiomas (árabe, egipcio, hindi, español, persa, chino, japonés y ruso).
 
 Ocho años puede parecer un plazo excesivo para este trabajo, especialmente si consideramos que se está publicando un avance, no el resultado final. Sin embargo, no lo es. Si bien Henrik Ibsen no ocupa el espacio que tiene Shakespeare en la cultura popular, eso no lo hace menos complejo o relevante. Esto se aprecia en [la presentación que hace Cristina Gómez-Baggethun][articulo-Ibsen1], la experta en Ibsen elegida para dirigir la traducción al español, sobre esta primera publicación.
 
@@ -26,22 +26,32 @@ No es el propósito de este post hacer una especie de unboxing del libro, así q
 Las obras que contiene este primer volumen se listan abajo. Como se puede ver, coindicen con las que podríamos llamar los "grandes dramas" de Ibsen:
 
 • Los pilares de la sociedad (1877)
+
 • Casa de muñecas (1879)
+
 • Espectros (1881)
+
 • Un enemigo del pueblo (1882)
+
 • El pato silvestre (1884)
+
 • La Casa Rosmer (1886)
+
 • La dama del mar (1888)
+
 • Hedda Gabler (1890)
 
-Asimsimo, al leer el libro, descubrí que el artículo que mencioné al inicio de este post no es más que la parte inicial de la introducción del libro. Parte de esta introducción y algunas páginas de Los pilares de la sociedad pueden ser leídos [aquí][introduccion-Ibsen].
+Asimsimo, al leer el libro, descubrí que el artículo que mencioné al inicio de este post no es más que la parte inicial de la introducción del libro. Parte de esta introducción y algunas páginas de *Los pilares de la sociedad* pueden ser leídos [aquí][introduccion-Ibsen].
 
 En resumen, la información previa que encontré sobre esta nueva traducción de Ibsen llamó bastante mi atención y, al comprar el libro, he quedado satisfecho y lo recomiendo si les gusta el teatro en general. Lo pueden encontrar en [la misma página de la editorial][compra-ibsen-nordica]. Personalmente, nunca he encontrado un solo libro de Ibsen en liberías limeñas, lo cual es una lástima. Ibsen es uno de esos autores cuyas obras resultan tan profundamente humanas que se pueden releer innumerables veces y en cada lectura se descubre algo nuevo.
 
 
 Título: Teatro (1877-1890). Traducción de Cristina Gómez-Baggethun
+
 Autor: Henrik Ibsen
+
 Editorial: [Nórdica libros][nordicalibros]
+
 Año: 2019
 
 
